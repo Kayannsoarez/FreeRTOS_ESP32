@@ -3,6 +3,11 @@ Desenvolvendo projetos utilizando RTOS(Real Time Operating System) em Microcontr
 
 Projetos exemplos com FreeRTOS e o ESP32. Usando como base a API do FreeRTOS e o Framework Arduino.
 
+## Ambiente
+- VSCode + PlatformIO
+- Framework Arduino para espressif32
+
+
 
 
 
