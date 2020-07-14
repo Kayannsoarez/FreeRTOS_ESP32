@@ -60,7 +60,7 @@ void vTask2(void *pvParameters){
         task1Handle = NULL;
       }
 
-      if(cont>+15){
+      if(cont>=15){
         Serial.println("Deletando Task 2");
         vTaskDelete(NULL);
       }
