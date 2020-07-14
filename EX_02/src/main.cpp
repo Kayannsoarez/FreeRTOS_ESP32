@@ -1,6 +1,6 @@
 /***************************************************************
  *  Deletando tasks
- *  Esse exemplo exibe como criar tarefas no FreeRTOS
+ *  Esse exemplo exibe como deletar uma task no FreeRTOS
  *  Por: Kayann Soares
 ***************************************************************/
 #include <Arduino.h>
