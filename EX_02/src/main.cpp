@@ -33,7 +33,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  vTaskDelay(1000);
+  vTaskDelay(3000);
   
 }
 
