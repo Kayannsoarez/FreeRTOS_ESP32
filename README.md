@@ -8,7 +8,7 @@ Projetos exemplos com FreeRTOS e o ESP32. Usando como base a API do FreeRTOS e o
 * Framework Arduino para espressif32.
 
 ## Hardware
-* ESP32 DevKit - Doit
+* ESP32 DevKit - Doit.
 
 
 
